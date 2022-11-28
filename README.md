@@ -1,5 +1,5 @@
 # casa0016
-When I studied in the quiet zone of kcl Library last month, I noticed that there were always students talking, and they didn't seem to notice that this behavior had affected the people around them.
+When I studied in the quiet zone of Library last month, I noticed that there were always students talking, and they didn't seem to notice that this behavior had affected the people around them.
 Moreover, there was no one to deal with the report on the corresponding link in their library. At the same time, I observed that even if the report was bad, the classmates around did not come out to stop them
 Until they get quiet on their own. Therefore, I think it is necessary to build a decibel meter to detect the noise amount of each seat and give feedback to students in some ways when the sound exceeds the set value.
 
